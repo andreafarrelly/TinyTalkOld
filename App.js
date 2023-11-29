@@ -191,7 +191,7 @@ function WelcomeScreen({ navigation }) {
     <View style={styles.container}>
       <View style={styles.body}>
         <Image
-          source={require('/Users/andreafarrelly/TinyTalkOld/assets/tinytalklogo2.jpg')}
+          source={require('/Users/andreafarrelly/tinyTalkApp/assets/tinytalklogo2.jpg')}
           style={{
             ...styles.logo,
             width: 300,
