@@ -243,7 +243,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#FFFFF0',
     padding: 15,
-    paddingTop: 20, // Adjusted paddingTop for moving the card up
+    paddingTop: 15, // Adjusted paddingTop for moving the card up
   },
   title: {
     fontSize: 50,
@@ -262,13 +262,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    paddingBottom: 70, // Adjusted paddingBottom for better spacing
+    paddingBottom: 80, // Adjusted paddingBottom for better spacing
   },
   categoryContainer: {
     paddingTop: 5,
     paddingLeft: 50,
-    marginTop: 20,
-    marginBottom: 30,
+    marginTop: 5,
+    marginBottom: 70,
   },
   categoryRow: {
     flexDirection: 'row',
